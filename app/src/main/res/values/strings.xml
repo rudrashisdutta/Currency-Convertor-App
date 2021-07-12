@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+    <string name="enter_INR">INR :</string>
+    <string name="is_USD">: USD</string>
+    <string name="enter_USD">USD :</string>
+    <string name="is_INR">: INR</string>
+</resources>
